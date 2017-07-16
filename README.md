@@ -1,7 +1,8 @@
 # CodeMakers-Advanced-Python-Cryptography
 Python code used to review CS concepts with campers.
 
-```### Filename: CaesarCipher
+```python
+### Filename: CaesarCipher
 ### Venture Codemakers Advanced
 ### Summer 2017
 
@@ -46,4 +47,5 @@ def main():
 
     brute(cipherText)
     
-main()```
+main()
+```
