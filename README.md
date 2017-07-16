@@ -1,4 +1,5 @@
 # CodeMakers-Advanced-Python-Cryptography
+---
 Python code used to review CS concepts with campers.
 
 ```python
@@ -49,3 +50,5 @@ def main():
     
 main()
 ```
+
+Created by [Andrew Berriault](https://github.com/ABerriault) for *McMaster Venture Engineering & Science*
