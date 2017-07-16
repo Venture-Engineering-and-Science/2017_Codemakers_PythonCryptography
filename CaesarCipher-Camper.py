@@ -6,8 +6,7 @@
 #### Python functions use the syntax. ####
 # def functionName (arguments):
 #     The function code here.
-#
-#     return variable
+#     return var
 
 
 #### Python loops use the syntax. ####
